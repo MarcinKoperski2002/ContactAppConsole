@@ -1,0 +1,17 @@
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\ContactAppConsole.exe
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\ContactAppConsole.deps.json
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\ContactAppConsole.runtimeconfig.json
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\ContactAppConsole.dll
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\ContactAppConsole.pdb
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.dll
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\refint\ContactAppConsole.dll
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.pdb
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ref\ContactAppConsole.dll
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Marcin\source\repos\ContactAppConsole\ContactAppConsole\obj\Debug\net6.0\ContactAppConsole.csproj.CopyComplete
